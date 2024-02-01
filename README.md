@@ -1,16 +1,21 @@
-### Hi there 👋
+![Background Linkedin](https://github.com/marionovaro/marionovaro/assets/145981425/7dcd4106-d13a-47e3-8ce0-6aa3007ad235)
+<h2 align="center">Hey there! I'm Mario Novaro, a Fullstack Web Developer from &nbsp;&nbsp;<img alt="Spain Flag" src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/ES.svg" height="15px" /> Barcelona, Spain</h2>
 
-<!--
-**marionovaro/marionovaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>🇪🇸 Soy un Desarrollador Web Fullstack que ofrezco mis servicios a empresas e individuos creando soluciones web dinámicas y atractivas. Actualmente estoy buscando la oportunidad de crecer dentro de una empresa para llevar mi carrera un paso más allá.</h4>
+<h4>🇬🇧 I am currently offering my services to businesses and individuals as a Fullstack Web Developer, creating dynamic and visually-appealing web solutions. Nevertheless, I amb looking for an opportunity to grow within a company that elevates my career.</h4>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+<br/>
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=marionovaro&theme=synthwave&show_icons=true&hide_rank=true&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionovaro&hide=roff&theme=synthwave)](https://github.com/marionovaro/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marionovaro&repo=Portfolio&theme=synthwave)](https://github.com/marionovaro/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

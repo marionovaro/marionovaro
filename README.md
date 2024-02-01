@@ -15,14 +15,17 @@
 </p>
 <br/>
 
-![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=marionovaro&theme=synthwave&show_icons=true&hide_rank=true&line_height=27)
+![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=marionovaro&theme=synthwave&show_icons=true&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionovaro&hide=roff&theme=synthwave&card_width=100)](https://github.com/marionovaro/github-readme-stats)
-[![Mario's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marionovaro)](https://github.com/marionovaro/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marionovaro&repo=Portfolio&theme=synthwave&show_owner=true&text_color=ffffff)](https://github.com/marionovaro/github-readme-stats)
+
+<!-- [![Mario's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marionovaro)](https://github.com/marionovaro/github-readme-stats) -->
+
+<h3 align="center">Find me in &nbsp; <a href="https://www.linkedin.com/in/mario-novaro-056503226/"><img alt="Linkedin Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="17px"/> Linkedin</a> &nbsp; <a href="https://marios-portfolio.vercel.app/" color="#ffffff"><img alt="Portfolio" src="https://res.cloudinary.com/dx2arqne6/image/upload/v1704656608/Tab_Icon_vxfvvc.svg" height="20px"/> Portfolio</a></h3>
 
 
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marionovaro&repo=Portfolio&theme=synthwave&show_owner=true)](https://github.com/marionovaro/github-readme-stats)
 
 

@@ -14,8 +14,15 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 <br/>
+
 ![Mario's GitHub stats](https://github-readme-stats.vercel.app/api?username=marionovaro&theme=synthwave&show_icons=true&hide_rank=true&line_height=27)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionovaro&hide=roff&theme=synthwave)](https://github.com/marionovaro/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marionovaro&repo=Portfolio&theme=synthwave)](https://github.com/marionovaro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionovaro&hide=roff&theme=synthwave&card_width=100)](https://github.com/marionovaro/github-readme-stats)
+[![Mario's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marionovaro)](https://github.com/marionovaro/github-readme-stats)
+
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marionovaro&repo=Portfolio&theme=synthwave&show_owner=true)](https://github.com/marionovaro/github-readme-stats)
 
 
